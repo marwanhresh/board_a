@@ -4,7 +4,7 @@
  * Author: Erel Segal-Halevi
  * Since : 2021-03
  */
-
+#include <limits>
 #include "Board.hpp"
 #include "Direction.hpp"
 using ariel::Direction;
